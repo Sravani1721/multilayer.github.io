@@ -1,0 +1,47 @@
+.diwalicard{
+    background-image: url("https://as2.ftcdn.net/v2/jpg/05/26/72/07/1000_F_526720726_81RaeoBoX44fMC9nq5PLc5SkEefMKPxV.jpg");
+
+    background-size: cover;
+    height: 40vh;
+}
+.heading{
+    color:whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    padding-top: 120px;
+}
+.lines{
+    color:whitesmoke;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 5px;
+    text-align:center;
+    font-weight: bold;
+
+}
+
+.diwalicardbottom {
+    background-color: antiquewhite;
+    height: 80vh;
+}
+.img{
+    height: 80px;
+    width: 80px;
+}
+.diwali{
+    background-color:tomato;
+    width: 150px;
+    border-radius: 15px;
+    padding: 5px;
+    height: 145px;
+    text-align: center;
+    margin: 10px;
+}
+.diwaliheading{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+.diwalipara{
+    font-weight: bold;
+}
